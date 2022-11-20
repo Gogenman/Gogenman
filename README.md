@@ -12,11 +12,11 @@
 ![docker](https://img.shields.io/badge/docker-1f1e1f?style=for-the-badge&logo=docker)
 ![linux](https://img.shields.io/badge/linux-1f1e1f?style=for-the-badge&logo=linux&logoColor=fff)
 ![git](https://img.shields.io/badge/git-1f1e1f?style=for-the-badge&logo=git)
-![mysql](https://img.shields.io/badge/mysql-1f1e1f?style=for-the-badge&logo=mysql)
 ![figma](https://img.shields.io/badge/figma-1f1e1f?style=for-the-badge&logo=figma)
 
 
 ## What i learn now:
+![mysql](https://img.shields.io/badge/mysql-1f1e1f?style=for-the-badge&logo=mysql)
 ![vue.js](https://img.shields.io/badge/vue.js-1f1e1f?style=for-the-badge&logo=vue.js)
 ![typescript](https://img.shields.io/badge/typescript-1f1e1f?style=for-the-badge&logo=typescript)
 
