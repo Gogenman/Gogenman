@@ -1,6 +1,6 @@
 ## front-end developer.
 ### What i use in daily dev:
-<p>I am a self-taught front-end developer</p>
+### I am a self-taught front-end developer
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1e1f?style=for-the-badge&logo=JavaScript&logoColor=yellow) 
 ![jquery](https://img.shields.io/badge/jquery-1f1e1f?style=for-the-badge&logo=jquery&logoColor=orange)
 ![php](https://img.shields.io/badge/php-1f1e1f?style=for-the-badge&logo=php)
