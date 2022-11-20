@@ -1,6 +1,5 @@
-[![Header](blob:https://webogram.ru/ed8eadcf-e1cd-45cc-a120-1139a089c5bc)]
-# front-end developer.
-## What i use in daily dev:
+## front-end developer.
+### What i use in daily dev:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1e1f?style=for-the-badge&logo=JavaScript&logoColor=yellow) 
 ![jquery](https://img.shields.io/badge/jquery-1f1e1f?style=for-the-badge&logo=jquery&logoColor=orange)
@@ -16,7 +15,7 @@
 ![figma](https://img.shields.io/badge/figma-1f1e1f?style=for-the-badge&logo=figma)
 
 
-## What i learn now:
+### What i learn now:
 ![mysql](https://img.shields.io/badge/mysql-1f1e1f?style=for-the-badge&logo=mysql)
 ![vue.js](https://img.shields.io/badge/vue.js-1f1e1f?style=for-the-badge&logo=vue.js)
 ![typescript](https://img.shields.io/badge/typescript-1f1e1f?style=for-the-badge&logo=typescript)
