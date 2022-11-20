@@ -1,4 +1,4 @@
-# Hello everyone, my name is Georgy Albegov and I am a front-end developer.
+# I am a front-end developer.
 ## What i use in daily dev:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f1e1f?style=for-the-badge&logo=JavaScript&logoColor=yellow) 
