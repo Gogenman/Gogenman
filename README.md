@@ -17,6 +17,6 @@
 
 ### What i learn now:
 ![mysql](https://img.shields.io/badge/mysql-1f1e1f?style=for-the-badge&logo=mysql)
-![react.js](https://img.shields.io/badge/react.js-1f1e1f?style=for-the-badge&logo=react.js)
+![react.js](https://img.shields.io/badge/react.js-1f1e1f?style=for-the-badge&logo=react)
 ![typescript](https://img.shields.io/badge/typescript-1f1e1f?style=for-the-badge&logo=typescript)
 
